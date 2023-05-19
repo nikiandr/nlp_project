@@ -1,0 +1,392 @@
+[
+    {
+        "Name": "The Iliad",
+        "Author": "Homer",
+        "Description": "Epic poem which tells the story of the last year of the Trojan War fought between the city of Troy and the Greeks."
+    },
+    {
+        "Name": "The War of the Worlds",
+        "Author": "H. G. Wells",
+        "Description": "Science fiction novel, first-person narrative of an unnamed protagonist in Surrey and his younger brother in London as southern England is invaded by Martians."
+    },
+    {
+        "Name": "Cranford",
+        "Author": "Elizabeth Cleghorn Gaskell",
+        "Description": "A series of episodes in the lives of Mary Smith and her friends, Miss Matty and Miss Deborah, two spinster sisters."
+    },
+    {
+        "Name": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Description": "The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan."
+    },
+    {
+        "Name": "Heidi",
+        "Author": "Johanna Spyri",
+        "Description": "Work of children's fiction, story of a joyful and free-spirited young girl who is orphaned as a toddler."
+    },
+    {
+        "Name": "The Prince",
+        "Author": "Niccolo Machiavelli",
+        "Description": "Political treatise written as an instruction guide for new princes and royals."
+    },
+    {
+        "Name": "Ivanhoe: A Romance",
+        "Author": "Walter Scott",
+        "Description": "Historical novel with colourful descriptions of a tournament, outlaws, a witch trial, and divisions between Jews and Christians, Normans and Saxons."
+    },
+    {
+        "Name": "The Importance of Being Earnest",
+        "Author": "Oscar Wilde",
+        "Description": "Farcical comedy in which the protagonists maintain fictitious personae to escape burdensome social obligations."
+    },
+    {
+        "Name": "Around the World in Eighty Days",
+        "Author": "Jules Verne",
+        "Description": "Adventure novel about Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a wager set by his friends at the Reform Club."
+    },
+    {
+        "Name": "A Doll's House",
+        "Author": "Henrik Ibsen",
+        "Description": "Three-act play in prose by Henrik Ibsen, the story of a housewife who emerges from the confinement of her married life to confront the conditions of the outside world."
+    },
+    {
+        "Name": "Kim",
+        "Author": "Rudyard Kipling",
+        "Description": "Novel about the adventures of Kimball O'Hara, an Irish orphan in India who becomes the disciple of a Tibetan monk."
+    },
+    {
+        "Name": "Grimm's Fairy Tales",
+        "Author": "Jacob Grimm and Wilhelm Grimm",
+        "Description": "Collection of fairy tales by the Grimm brothers, Jacob and Wilhelm."
+    },
+    {
+        "Name": "The Blue Castle",
+        "Author": "L. M. Montgomery",
+        "Description": "Novel about maid of the Stirling clan, Valancy, who has always been obedient to her family and never defied them, but she is reaching a breaking point at age 29."
+    },
+    {
+        "Name": "The Trial",
+        "Author": "Franz Kafka",
+        "Description": "Novel about Josef K., who awakens one morning and, for reasons never revealed, is arrested and prosecuted for an unspecified crime."
+    },
+    {
+        "Name": "The Picture of Dorian Gray",
+        "Author": "Oscar Wilde",
+        "Description": "Philosophical novel revolves around a portrait of Dorian Gray painted by Basil Hallward, a friend of Dorian's and an artist infatuated with Dorian's beauty."
+    },
+    {
+        "Name": "Oliver Twist",
+        "Author": "Charles Dickens",
+        "Description": "Novel about an orphan, Oliver Twist, who endures a miserable existence in a workhouse and then is placed with an undertaker."
+    },
+    {
+        "Name": "Hamlet",
+        "Author": "William Shakespeare",
+        "Description": "Tragedy set in Denmark, the play depicts Prince Hamlet and his attempts to exact revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother."
+    },
+    {
+        "Name": "The Tempest",
+        "Author": "William Shakespeare",
+        "Description": "Play by William Shakespeare, after the first scene, which takes place on a ship at sea during a tempest, the rest of the story is set on a remote island, where Prospero, a complex and contradictory character, lives with his daughter Miranda, and his two servants: Caliban, a savage monster figure, and Ariel, an airy spirit"
+    },
+    {
+        "Name": "Moby Dick; Or, The Whale",
+        "Author": "Herman Melville",
+        "Description": "The book is the sailor Ishmael's narrative of the maniacal quest of Ahab, captain of the whaling ship Pequod, for vengeance against Moby Dick, the giant white sperm whale that bit off his leg on the ship's previous voyage."
+    },
+    {
+        "Name": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "Author": "Robert Louis Stevenson",
+        "Description": "Gothic novella, which follows abriel John Utterson, a London-based legal practitioner who investigates a series of strange occurrences between his old friend Dr. Henry Jekyll and a murderous criminal named Edward Hyde"
+    },
+    {
+        "Name": "The Hound of the Baskervilles",
+        "Author": "Arthur Conan Doyle",
+        "Description": "Crime novel which tells the story of an attempted murder inspired by the legend of a fearsome, diabolical hound of supernatural origin."
+    },
+    {
+        "Name": "Dracula",
+        "Author": "Bram Stoker",
+        "Description": "Epistolary novel the narrative is related through letters, diary entries, and newspaper articles, which has no single protagonist, but opens with solicitor Jonathan Harker taking a business trip to stay at the castle of a Transylvanian nobleman, Count Dracula. "
+    },
+    {
+        "Name": "Pollyanna",
+        "Author": "Eleanor H. Porter",
+        "Description": "American novel about Pollyanna Whittier, an eleven-year-old orphan who goes to live in the fictional town of Beldingsville, Vermont, with her wealthy but stern and cold spinster Aunt Polly Harrington, who does not want to take in Pollyanna but feels it as her duty to her late sister Jennifer."
+    },
+    {
+        "Name": "Great Expectations",
+        "Author": "Charles Dickens",
+        "Description": "A coming-of-age novel about a young orphan, Pip, who dreams of becoming a gentleman and falls in love with the mysterious Estella."
+    },
+    {
+        "Name": "Tarzan and the Lost Empire",
+        "Author": "Edgar Rice Burroughs",
+        "Description": "Follow Tarzan's thrilling adventures as he sets out to rescue Jane and discovers a lost civilization in the heart of Africa."
+    },
+    {
+        "Name": "Frankenstein",
+        "Author": "Mary Shelley",
+        "Description": "A Gothic novel that explores the ethical and moral implications of creating life, as scientist Victor Frankenstein brings a creature to life."
+    },
+    {
+        "Name": "Winnie-the-Pooh",
+        "Author": "A. A. Milne",
+        "Description": "Join Pooh Bear and his friends in the Hundred Acre Wood as they embark on heartwarming and whimsical adventures."
+    },
+    {
+        "Name": "The Murder on the Links",
+        "Author": "Agatha Christie",
+        "Description": "Hercule Poirot is called to solve a murder that takes place on a golf course, where everyone seems to have a motive."
+    },
+    {
+        "Name": "Through the Looking-Glass",
+        "Author": "Lewis Carroll",
+        "Description": "Alice enters a fantastical world on the other side of the mirror, encountering peculiar characters and engaging in nonsensical adventures."
+    },
+    {
+        "Name": "Beyond Good and Evil",
+        "Author": "Friedrich Nietzsche",
+        "Description": "Nietzsche's philosophical work delving into themes of morality, religion, and the concept of the Ubermensch."
+    },
+    {
+        "Name": "The Life and Adventures of Robinson Crusoe",
+        "Author": "Daniel Defoe",
+        "Description": "Follow the gripping tale of Robinson Crusoe, a shipwrecked sailor who must survive on a deserted island and face various challenges."
+    },
+    {
+        "Name": "The Time Machine",
+        "Author": "H. G. Wells",
+        "Description": "A science fiction novel in which an inventor constructs a machine that allows him to travel to the future, witnessing the evolution of humanity."
+    },
+    {
+        "Name": "A Journey to the Centre of the Earth",
+        "Author": "Jules Verne",
+        "Description": "Professor Lidenbrock and his nephew embark on an extraordinary adventure, descending into the depths of the Earth."
+    },
+    {
+        "Name": "Death in Venice",
+        "Author": "Thomas Mann",
+        "Description": "Gustav von Aschenbach, a renowned writer, becomes captivated by the beauty of a young boy while staying in Venice, leading to a psychological unraveling."
+    },
+    {
+        "Name": "Pride and Prejudice",
+        "Author": "Jane Austin",
+        "Description": "A classic novel revolving around the themes of love, societal expectations, and personal growth, as Elizabeth Bennet and Mr. Darcy navigate their complicated relationship."
+    },
+    {
+        "Name": "The Call of Cthulhu",
+        "Author": "H. P. Lovecraft",
+        "Description": "Enter the world of cosmic horror as Lovecraft introduces the ancient entity Cthulhu, inspiring fear and madness in those who encounter it."
+    },
+    {
+        "Name": "Les Miserables",
+        "Author": "Victor Hugo",
+        "Description": "Set in 19th-century France, this epic novel follows the lives of Jean Valjean, Cosette, Javert, and other characters against the backdrop of the French Revolution."
+    },
+    {
+        "Name": "Ulysses",
+        "Author": "James Joyce",
+        "Description": "Considered a modernist masterpiece, Ulysses explores the events and thoughts of Leopold Bloom and Stephen Dedalus over the course of a single day in Dublin."
+    },
+    {
+        "Name": "The Odyssey",
+        "Author": "Homer",
+        "Description": "The ancient Greek epic poem recounts the adventures of Odysseus as he attempts to return home to Ithaca after the Trojan War."
+    },
+    {
+        "Name": "Peter Pan",
+        "Author": "James Barrie",
+        "Description": "Fly away to Neverland with Peter Pan, Wendy Darling, and Tinker Bell as they battle the villainous Captain Hook and embark on magical escapades."
+    },
+    {
+        "Name": "A Tale of Two Cities",
+        "Author": "Charles Dickens",
+        "Description": "Set against the backdrop of the French Revolution, this novel tells the story of two men, Charles Darnay and Sydney Carton, and their intertwined fates."
+    },
+    {
+        "Name": "Flatland: A Romance of Many Dimensions",
+        "Author": "Edwin Abbott Abbott",
+        "Description": "Explore a two-dimensional world called Flatland and follow the narrator, a square, on a journey that delves into geometry, social hierarchy, and satire."
+    },
+    {
+        "Name": "The Enchanted April",
+        "Author": "Elizabeth Von Arnim",
+        "Description": "Four women, dissatisfied with their lives, embark on a transformative journey to an Italian castle, finding friendship, love, and renewal along the way."
+    },
+    {
+        "Name": "The Divine Comedy",
+        "Author": "Dante Alighieri",
+        "Description": "Dante's epic poem takes readers on a journey through Hell, Purgatory, and Paradise, exploring themes of sin, redemption, and divine love."
+    },
+    {
+        "Name": "The Adventures of Sherlock Holmes",
+        "Author": "Arthur Conan Doyle",
+        "Description": "Join the legendary detective Sherlock Holmes and his loyal companion Dr. Watson as they solve a series of captivating mysteries in Victorian London."
+    },
+    {
+        "Name": "Treasure Island",
+        "Author": "Robert Louis Stevenson",
+        "Description": "Set sail for adventure with young Jim Hawkins and the infamous Long John Silver in search of buried treasure on a remote Caribbean island."
+    },
+    {
+        "Name": "Little Women",
+        "Author": "Louisa May Alcott",
+        "Description": "Follow the lives of the four March sisters—Meg, Jo, Beth, and Amy—as they navigate the challenges of adolescence and pursue their dreams."
+    },
+    {
+        "Name": "The Adventure of Tom Sawyer",
+        "Author": "Mark Twain",
+        "Description": "Join Tom Sawyer and Huckleberry Finn on their mischievous adventures along the Mississippi River in this beloved coming-of-age tale."
+    },
+    {
+        "Name": "Three Men in a Boat",
+        "Author": "Jerome K. Jerome",
+        "Description": "Join the humorous escapades of three friends as they embark on a boating trip along the Thames, encountering mishaps and comedic situations."
+    },
+    {
+        "Name": "Romeo and Juliet",
+        "Author": "William Shakespeare",
+        "Description": "Shakespeare's timeless tragedy tells the tale of two young star-crossed lovers from feuding families, whose love leads to a series of tragic events."
+    },
+    {
+        "Name": "Alice's Adventures in Wonderland",
+        "Author": "Lewis Carroll",
+        "Description": "Follow Alice down the rabbit hole into a whimsical and nonsensical world, meeting eccentric characters and experiencing mind-bending adventures."
+    },
+    {
+        "Name": "Life on the Mississippi",
+        "Author": "Mark Twain",
+        "Description": "Mark Twain recounts his experiences as a riverboat pilot on the Mississippi River, capturing the essence of life and society along its shores."
+    },
+    {
+        "Name": "Don Quixote",
+        "Author": "Miguel de Cervantes Saavedra",
+        "Description": "Embark on the comedic and adventurous journey of Don Quixote and his loyal squire, Sancho Panza, as they tilt at windmills and pursue chivalrous ideals."
+    },
+    {
+        "Name": "Metamorphosis",
+        "Author": "Franz Kafka",
+        "Description": "Experience the haunting and existential tale of Gregor Samsa, who wakes up one morning to find himself transformed into a giant insect."
+    },
+    {
+        "Name": "Jane Eyre: An Autobiography",
+        "Author": "Charlotte Brontë",
+        "Description": "Follow the life of Jane Eyre, an independent and strong-willed woman, as she faces adversity, finds love, and searches for her place in the world."
+    },
+    {
+        "Name": "Utopia",
+        "Author": "Saint Thomas More",
+        "Description": "More's philosophical work envisions an ideal society on the fictional island of Utopia, exploring themes of social and political philosophy."
+    },
+    {
+        "Name": "Pygmalion",
+        "Author": "Bernard Shaw",
+        "Description": "A witty and satirical play that examines social class and identity through the transformation of a Cockney flower girl, Eliza Doolittle, into a refined lady."
+    },
+    {
+        "Name": "The Voyage of the Beagle",
+        "Author": "Charles Darwin",
+        "Description": "Join Charles Darwin on his historic voyage aboard the HMS Beagle, as he explores various lands, studies flora and fauna, and formulates his groundbreaking theories."
+    },
+    {
+        "Name": "Twenty Thousand Leagues Under the Seas",
+        "Author": "Jules Verne",
+        "Description": "Embark on a thrilling underwater adventure as Professor Aronnax, Ned Land, and Conseil encounter the enigmatic Captain Nemo and explore the depths of the ocean."
+    },
+    {
+        "Name": "Gulliver's Travels",
+        "Author": "Jonathan Swift",
+        "Description": "Join Lemuel Gulliver on his extraordinary voyages to remote lands, where he encounters fantastical creatures and satirizes various aspects of human society."
+    },
+    {
+        "Name": "A Christmas Carol in Prose",
+        "Author": "Charles Dickens",
+        "Description": "Celebrate the spirit of Christmas with Ebenezer Scrooge as he undergoes a transformative journey, guided by the ghosts of Christmas Past, Present, and Yet to Come."
+    },
+    {
+        "Name": "Siddhartha",
+        "Author": "Herman Hesse",
+        "Description": "Follow Siddhartha's spiritual quest for enlightenment as he explores different paths, encounters various teachings, and seeks inner harmony."
+    },
+    {
+        "Name": "A Midsummer Night's Dream",
+        "Author": "William Shakespeare",
+        "Description": "A magical and comedic play by William Shakespeare, portraying the events surrounding the marriage of Theseus, the Duke of Athens, and Hippolyta, the Queen of the Amazons."
+    },
+    {
+        "Name": "A Study in Scarlet",
+        "Author": "Arthur Conan Doyle",
+        "Description": "The first novel featuring the famous detective Sherlock Holmes. It follows Holmes and his companion Dr. John Watson as they investigate a murder in London, uncovering a complex web of mystery and intrigue."
+    },
+    {
+        "Name": "Notre-Dame de Paris",
+        "Author": "Victor Hugo",
+        "Description": "Also known as 'The Hunchback of Notre-Dame,' this novel by Victor Hugo tells the story of the deformed bell-ringer Quasimodo and his love for the beautiful gypsy Esmeralda, set against the backdrop of medieval Paris."
+    },
+    {
+        "Name": "A Room with a View",
+        "Author": "E.M. Foster",
+        "Description": "A novel by E.M. Forster that follows the story of Lucy Honeychurch, a young Englishwoman traveling in Italy, as she navigates the complexities of love and societal expectations."
+    },
+    {
+        "Name": "Twenty Years After",
+        "Author": "Alexandre Dumas",
+        "Description": "The sequel to 'The Three Musketeers,' this historical novel by Alexandre Dumas continues the adventures of the musketeers as they face new challenges and conflicts two decades after the events of the first book."
+    },
+    {
+        "Name": "The Jungle Book",
+        "Author": "Rudyard Kipling",
+        "Description": "A collection of stories by Rudyard Kipling, featuring Mowgli, a young boy raised by wolves in the Indian jungle. The book explores themes of nature, survival, and the clash between civilization and the wild."
+    },
+    {
+        "Name": "The Three Musketeers",
+        "Author": "Alexandre Dumas",
+        "Description": "An adventure novel by Alexandre Dumas, following the adventures of the young d'Artagnan as he joins the Musketeers of the Guard and gets entangled in political intrigue, romance, and duels in 17th-century France."
+    },
+    {
+        "Name": "The Wonderful Wizard of Oz",
+        "Author": "L. Frank Baum",
+        "Description": "A beloved children's novel by L. Frank Baum, telling the story of Dorothy, a young girl who finds herself in the magical Land of Oz after a cyclone transports her and her dog Toto from Kansas."
+    },
+    {
+        "Name": "Martin Eden",
+        "Author": "Jack London",
+        "Description": "A semi-autobiographical novel by Jack London, depicting the struggles of Martin Eden, a young writer striving for success and recognition while grappling with social class, love, and personal identity."
+    },
+    {
+        "Name": "The Lost World",
+        "Author": "Arthur Conan Doyle",
+        "Description": "A science fiction adventure novel by Arthur Conan Doyle, featuring the eccentric Professor Challenger and his expedition team as they discover a hidden plateau in the Amazon rainforest inhabited by prehistoric creatures."
+    },
+    {
+        "Name": "The Sea-Wolf",
+        "Author": "Jack London",
+        "Description": "A psychological adventure novel by Jack London, centering around Humphrey van Weyden, a literary critic who finds himself at the mercy of the brutal and enigmatic sea captain, Wolf Larsen."
+    },
+    {
+        "Name": "Adventures of Huckleberry Finn",
+        "Author": "Mark Twain",
+        "Description": "A classic American novel by Mark Twain, following the adventures of Huck Finn and his friend Jim, an escaped slave, as they journey down the Mississippi River and confront issues of racism and morality."
+    },
+    {
+        "Name": "The Gun",
+        "Author": "Philip K. Dick",
+        "Description": "A science fiction novel by Philip K. Dick, set in a post-apocalyptic world where an ancient, self-replicating robot called 'The Gun' can alter reality and shape the fate of humanity."
+    },
+    {
+        "Name": "David Copperfield",
+        "Author": "Charles Dickens",
+        "Description": "A coming-of-age novel by Charles Dickens, loosely based on the author's own life. It traces the life of David Copperfield from his troubled childhood to his journey into adulthood, filled with memorable characters and social commentary."
+    },
+    {
+        "Name": "Middlemarch",
+        "Author": "George Eliot",
+        "Description": "A novel by George Eliot, set in the fictional town of Middlemarch. It explores the lives and relationships of a diverse cast of characters, offering a panoramic view of English provincial life in the 19th century."
+    },
+    {
+        "Name": "A Modest Proposal",
+        "Author": "Jonathan Swift",
+        "Description": "A satirical essay by Jonathan Swift, suggesting a solution to the poverty and overpopulation issues in Ireland by proposing that the impoverished Irish sell their children as food to the wealthy."
+    }
+]
